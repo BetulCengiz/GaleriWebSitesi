@@ -1,0 +1,133 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+    top: 40px;
+    
+    
+}
+
+h1 img{
+    display: block;
+    flex-wrap: wrap;
+    float: right;
+}
+h2, h3 {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.sanatci {
+    margin: 20px auto;
+    width: 80%;
+}
+.logo {
+    display: block;
+    width: 10px;
+    height: 10px;
+    
+  }
+  
+  .logo-container {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+  }
+  
+
+.eserler {
+  /* Mevcut stiller */
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+}
+
+.eserler img {
+    width: 50%;
+
+  @media (max-width: 768px) {
+    width: 100%;
+
+}}
+.eser {
+    margin: 19px;
+    width: 25%;
+    
+    @media (max-width: 768px) {
+        width: 70%;
+      }
+    
+      @media (max-width: 576px) {
+        width: 100%;
+      }
+}
+
+.eser img {
+    width: 300px;
+    height: 300px;
+}
+
+
+
+header {
+    /* Mevcut stiller */
+    
+    place-items: center;
+  }
+  
+  header nav {
+    /* Mevcut stiller */
+  
+    @media (max-width: 768px) {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
+  header nav ul {
+    /* Mevcut stiller */
+    
+    @media (max-width: 768px) {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .hamburger-menu {
+      display: block;
+    }
+  }
+  
+  
+  .qwigley-regular {
+    font-family: "Qwigley", cursive;
+    font-weight: 600;
+    font-style:     italic;
+  }
+  .rosarivo-regular {
+    font-family: "Rosarivo", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .rosarivo-regular-italic {
+    font-family: "Rosarivo", cursive;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
