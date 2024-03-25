@@ -1,5 +1,5 @@
 # Sanat Galerisi Web Sitesi
-![Örnek Resim]("C:\Users\bc199\OneDrive\Masaüstü\Galeri\icerik\Ekran görüntüsü 2024-03-25 131625.png")
+![Örnek Resim](https://github.com/BetulCengiz/GaleriWebSitesi/blob/main/icerik/Ekran%20görüntüsü%202024-03-25%20131625.png)
 
 Bu proje, yapay zeka araçları kullanılarak üretilen görsel ve metin içeriklerini sergilemek için oluşturulmuş bir web sitesidir. Bu projede kullanılan araçlar ve proje yapısı aşağıda detaylandırılmıştır.
 
