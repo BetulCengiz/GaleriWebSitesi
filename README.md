@@ -1,5 +1,5 @@
 # Sanat Galerisi Web Sitesi
-![Örnek Resim](https://drive.google.com/file/d/1YD-FdWJBBsl-2xhr1JhDPS5ukJQKUfUL/view?usp=sharing)
+![Örnek Resim]("C:\Users\bc199\OneDrive\Masaüstü\Galeri\icerik\Ekran görüntüsü 2024-03-25 131625.png")
 
 Bu proje, yapay zeka araçları kullanılarak üretilen görsel ve metin içeriklerini sergilemek için oluşturulmuş bir web sitesidir. Bu projede kullanılan araçlar ve proje yapısı aşağıda detaylandırılmıştır.
 
